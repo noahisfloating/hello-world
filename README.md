@@ -1,2 +1,2 @@
 # hello-world
-This is my GitHub repository.
+This is repository owned by Kamil Staszewski.
